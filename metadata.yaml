@@ -1,0 +1,30 @@
+_repo: Woman-and-Labour_1440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schreiner, Olive
+    alias: Iron, Ralph
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '632'
+    url: http://www.gutenberg.org/2009/agents/632
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Schreiner
+description: An early 20th-century feminist credo on the role of women throughout
+  history and how to attain gender equality through labor and training.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Employment'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Women -- Economic conditions'
+- GITenberg
+title: Woman and Labour
+url: http://www.gutenberg.org/ebooks/1440
